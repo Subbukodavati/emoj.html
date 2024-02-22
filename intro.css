@@ -1,0 +1,15 @@
+body{
+    background-image: url("2020_ford_gt_heritage_edition_4k_8k-7680x4320.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    text-align: center;
+}
+button{
+    height:45px;
+    width:45px;
+    border-radius: 45%;
+}
+#result{
+    height:45px;
+    width:200px;
+}
